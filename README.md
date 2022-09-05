@@ -1,6 +1,6 @@
 # Election_Analysis
 Python
-# An Analysis of am election
+# An Analysis of an election
 Performing analysis on stock ticker data to look at difference between 2017 and 2018 data. Refactor the underlying code to make the process quicker.
 ---
 
