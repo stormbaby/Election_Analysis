@@ -15,14 +15,17 @@ Seth and Tom have been asked by the election committee to conduct an election au
 
 ## Analysis of Election Audit
 
-* How many votes were cast in this congressional election?
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-* Which county had the largest number of votes?
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+The chart below was compiled from election data from each county and candidates for the election.
 
-### 2017
-![Election _Analysis](/resources/Election_Results.png)
+[Election _Analysis](/resources/Election_Results.png)
+
+From the chart we can answer the following questions.
+
+* How many votes were cast in this congressional election? The Total Votes cast were 369,711 as seen at the top.
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. The next pioece of information in the chard is the counts by County.  Jefferson has 38,855 votes.  Denver had 306,055 voles and Arapahoe had 24,801 votes.
+* Which county had the largest number of votes? As seen in the next section, Denver had the largest number of votes.
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.  The next shows the breakdown for each candidate.
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?The last information in the chart shows that Diana DeGette won the election with 272,892 votes, 73.8%.
 
 
 ### 2018
