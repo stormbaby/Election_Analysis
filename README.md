@@ -1,10 +1,18 @@
 # Election_Analysis
 Python
-# An Analysis of an election
-Performing analysis on stock ticker data to look at difference between 2017 and 2018 data. Refactor the underlying code to make the process quicker.
+# Overview of Election Audit
+What is the purpose of doing the Election Audit.
 ---
 
-Steve wants to do more research for his parents to include the entire stock market over the last few years. Here we will use the we used for a dozen stocks and build it out to work for thousands.  In the process I calculated how long it look expanding the original code, then refactored the code, making the time it processes less.
+Seth and Tom have been asked by the election committee to conduct an election audit.  The election commission has requested some additional data to complete the audit:
+
+The voter turnout for each county
+The percentage of votes from each county out of the total count
+'-'The county with the highest turnout
+The voter turnout for each county
+The percentage of votes from each county out of the total count
+The county with the highest turnout
+
 ## Comparing 2017 stock results vs 2018 results
 
 For the year 2017, using VBA I added the total volume for each ticker, for each day. In addition, to find the returns for each ticket, I found the initial open ticker price and then the closing price to then calculate the annual return per ticker.  I completed the same analysis for 2018.  See images below.
