@@ -22,7 +22,7 @@ Seth and Tom have been asked by the election committee to conduct an election au
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ### 2017
-![Election Results](/Resources/Screen.Shot.2017.png)
+![Election _Analysis](/resources/Election_Results.png)
 
 
 ### 2018
