@@ -13,9 +13,14 @@ Seth and Tom have been asked by the election committee to conduct an election au
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
 
-## Comparing 2017 stock results vs 2018 results
+## Analysis of Election Audit
 
-For the year 2017, using VBA I added the total volume for each ticker, for each day. In addition, to find the returns for each ticket, I found the initial open ticker price and then the closing price to then calculate the annual return per ticker.  I completed the same analysis for 2018.  See images below.
+* How many votes were cast in this congressional election?
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* Which county had the largest number of votes?
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 ### 2017
 ![Screen.Shot.2017](/Resources_VBA/Screen.Shot.2017.png)
 
