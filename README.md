@@ -6,7 +6,7 @@ What is the purpose of doing the Election Audit.
 
 Seth and Tom have been asked by the election committee to conduct an election audit.  The election commission has requested some additional data to complete the audit:
 
-"-"The voter turnout for each county
+* The voter turnout for each county
 The percentage of votes from each county out of the total count
 The county with the highest turnout
 The voter turnout for each county
