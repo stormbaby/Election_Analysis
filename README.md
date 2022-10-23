@@ -17,7 +17,7 @@ Seth and Tom have been asked by the election committee to conduct an election au
 
 The chart below was compiled from election data from each county and candidates for the election.
 
-[Election _Analysis](/resources/Election_Results.png)
+![Election _Analysis](/resources/Election_Results.png)
 
 From the chart we can answer the following questions.
 
